@@ -1,6 +1,3 @@
-# PromptEngineering
-
-Nombre del Proyecto:
 # Generador de Prompts para Clases Virtuales de Batería
 
 # Presentación del Problema a Abordar:
@@ -34,5 +31,6 @@ Mejorar el acceso a clases de batería de calidad, permitiendo que los usuarios 
 Evaluar el desempeño y la satisfacción de los usuarios mediante retroalimentación y ajustes en los prompts.
 Metodología:
 Para llevar a cabo el proyecto, seguiré una metodología de desarrollo iterativo basada en pruebas continuas de los modelos y ajustes en los prompts. Los pasos incluyen:
+
 
 
