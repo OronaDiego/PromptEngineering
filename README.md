@@ -32,5 +32,5 @@ Evaluar el desempeño y la satisfacción de los usuarios mediante retroalimentac
 Metodología:
 Para llevar a cabo el proyecto, seguiré una metodología de desarrollo iterativo basada en pruebas continuas de los modelos y ajustes en los prompts. Los pasos incluyen:
 
-
+> Note: `Api_key` es necesaria para que el proyecto funcione, no esta implementada por motivos de seguridad.
 
