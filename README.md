@@ -1,4 +1,5 @@
-# Generador de Prompts para Clases Virtuales de Batería
+# Proyecto Viurtual DrumClass 
+> Note: `Generador de Prompts para Clases Virtuales de Batería`
 
 # Presentación del Problema a Abordar:
 El aprendizaje de la batería, al igual que muchos instrumentos musicales, suele depender de clases presenciales con un instructor. Sin embargo, el acceso a clases de música presenciales puede ser costoso, geográficamente limitado o incompatible con los horarios del estudiante. Muchos aspirantes a bateristas enfrentan barreras para acceder a un aprendizaje personalizado y estructurado que pueda adaptarse a su nivel de habilidad y estilo musical preferido. Además, los métodos autodidactas, como los tutoriales en línea, a menudo carecen de una progresión guiada y de retroalimentación personalizada, lo que puede llevar a frustraciones o a una progresión más lenta.
