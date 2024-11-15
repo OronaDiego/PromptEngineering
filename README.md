@@ -7,15 +7,16 @@ El aprendizaje de la batería, al igual que muchos instrumentos musicales, suele
 Este problema es relevante porque, a medida que la tecnología y la educación virtual avanzan, es crucial ofrecer alternativas accesibles y adaptativas para el aprendizaje de la música. La posibilidad de contar con un recurso personalizado y adaptable, capaz de generar clases según el nivel y las preferencias del estudiante, podría transformar la manera en que las personas aprenden batería, proporcionando un camino más económico, accesible y flexible para los estudiantes de todas partes.
 
 # Solución:
-La solución propuesta es una herramienta de IA que genere clases virtuales de batería personalizadas a través de prompts. Utilizando modelos de IA de generación de texto a texto y texto a imagen, la herramienta ofrecerá lecciones adaptadas al nivel y al estilo preferido del usuario. La IA creará ejercicios técnicos y rutinas de práctica, con la posibilidad de visualizar diagramas y partituras que faciliten la comprensión de los ritmos y técnicas sugeridos.
+La solución propuesta es una herramienta de IA que genere clases virtuales de batería personalizadas a través de prompts. Utilizando modelos de IA de generación de texto a texto y texto a imagen, la herramienta ofrecerá lecciones adaptadas al nivel y al estilo preferido del usuario. La IA creará ejercicios técnicos y rutinas de práctica, con la posibilidad de visualizar partituras que faciliten la comprensión de los ritmos y técnicas sugeridos.
 
 Texto a Texto: Este modelo generará descripciones detalladas de ejercicios de batería, rutinas de práctica, consejos técnicos y sugerencias de mejora según el nivel de habilidad (principiante, intermedio, avanzado) y el estilo musical deseado (rock, jazz, pop, etc.).
 
-Texto a Imagen: Este modelo generará representaciones visuales de los ejercicios sugeridos, como partituras de batería, diagramas de colocación de las baquetas y los pies, y representaciones visuales de los patrones rítmicos que ayudarán al estudiante a entender la ejecución correcta.
+Texto a Imagen: Este modelo generará representaciones visuales de los ejercicios sugeridos, mediante partituras ofreciendo una representacion visual de los patrones rítmicos que ayudarán al estudiante a entender la ejecución correcta.
 
 Prompts Ejemplo:
 
 Texto a Texto: "Genera una rutina de práctica de batería para un nivel intermedio, enfocada en la técnica de redobles y coordinación entre manos y pies."
+
 Texto a Imagen: "Genera una imagen con la partitura de batería para un ritmo básico en 4/4, mostrando la colocación de las manos en cada golpe de tambor."
 
 # Viabilidad del Proyecto:
